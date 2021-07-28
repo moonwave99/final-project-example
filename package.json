@@ -1,0 +1,22 @@
+{
+    "name": "final-project-example",
+    "version": "0.0.1",
+    "description": "final project example",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/moonwave99/final-project-example.git"
+    },
+    "author": "Diego Caponera",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/moonwave99/final-project-example/issues"
+    },
+    "homepage": "https://github.com/moonwave99/final-project-example#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
